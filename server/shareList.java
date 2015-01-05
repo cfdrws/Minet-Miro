@@ -1,4 +1,3 @@
-Enter file contents here
 package minet;
 import java.net.Socket;
 import java.util.List;
