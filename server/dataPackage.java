@@ -1,4 +1,3 @@
-Enter file contents here
 package minet;
 import java.text.SimpleDateFormat;
 import java.util.Date;
